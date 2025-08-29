@@ -4,6 +4,7 @@
     --cor-secundaria:#be2e5ae1;
     --cor-texto:#1876c45d;
     --cor-destaque:#3b0a06af;
+    
  }
     body{
         
@@ -13,6 +14,8 @@
        justify-items: center;
        align-items: center;
        height: 100vh;
+      
     }
+
 
 

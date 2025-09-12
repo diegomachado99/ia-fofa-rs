@@ -69,9 +69,14 @@ const perguntas = [
         ]
     },
 ];
-];
-
-
-]
-
+let atual=0;
+let perguntaAtual;
+let historiafianal="";
+function mostraperguntas(){
+    if (atual>=pergunstas,length)
+        mostraresultadosa();
+     return;
+}
+ perguntaAtual=perguntas[atual];
+ caixapergutas. textcontne= p
 
